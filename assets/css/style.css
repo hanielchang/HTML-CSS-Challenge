@@ -50,6 +50,8 @@ p {
     font-size: 16px;
 }
 
+/* When I moved the image url from here to HTML hero section, it created stretching of the image. I adjusted the pixels to fix it the best I could */
+/* I tried the following values: 800px, 1000px, and 1200px */
 .hero img {
     height: 1000px;
     width: 100%;
